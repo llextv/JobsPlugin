@@ -1,0 +1,8 @@
+name: JobsPlugin
+version: 1.0
+author: llex
+main: fr.llex.jobsplugin.JobsPlugin
+commands:
+  jobs:
+    description: Affiche les metiers dans un gui
+    permission: jobs.jobs
